@@ -94,3 +94,11 @@ body {
   background-color: #e7480f;
 }
 
+/* ADMIN */
+
+.admin {
+  background: #fff;
+  padding: 50px;
+  border-radius: 10px;
+}
+
